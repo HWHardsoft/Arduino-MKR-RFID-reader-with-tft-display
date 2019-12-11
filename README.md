@@ -8,7 +8,9 @@ You can use this reader for door access or intruder alarm terminals. It's easy t
 ## Hardware
 
 [Arduino MKR of your choice](https://store.arduino.cc/)
+
 [Arduibox MKR kit](https://www.hwhardsoft.de/english/projects/arduitouch-mkr/)
+
 [Innovateking-EU RFID Reader kit](https://www.amazon.de/Innovateking-EU-Starter-Schl%C3%BCsselring-Arduino-Raspberry/dp/B07S9V6QRX/)
 
 For details check this entry on [hackster.io](https://create.arduino.cc/projecthub/hwhardsoft/arduino-mkr-rfid-reader-with-tft-display-2db230) 
@@ -19,7 +21,9 @@ For details check this entry on [hackster.io](https://create.arduino.cc/projecth
 Install the following libraries through Arduino Library Manager
 
 Adafruit GFX Library https://github.com/adafruit/Adafruit-GFX-Library/archive/master.zip 
+
 Adafruit ILI9341 Library https://github.com/adafruit/Adafruit_ILI9341 
+
 MFRC522 Library https://github.com/miguelbalboa/rfid 
 
 You can also download the library also directly as ZIP file and uncompress the folder under yourarduinosketchfolder/libraries/
