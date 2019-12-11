@@ -3,7 +3,7 @@ It is very easy to create a nice looking RFID reader with TFT output for wall mo
 
 You can use this reader for door access or intruder alarm terminals. It's easy to extend this simple design for more complex application and wireless data transmission.
 
-![My image](https://user-images.githubusercontent.com/3049858/67164235-93095c00-f378-11e9-956e-67034d070ee8.jpg)
+![My image](https://hackster.imgix.net/uploads/attachments/1035416/_utvfqYvJK0.blob?auto=compress%2Cformat&w=900&h=675&fit=min)
 
 ## Hardware
 
