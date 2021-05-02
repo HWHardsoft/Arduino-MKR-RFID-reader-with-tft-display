@@ -1,5 +1,5 @@
 # Arduino-MKR-RFID-reader-with-tft-display
-It is very easy to create a nice looking RFID reader with TFT output for wall mounting with an Arduino MKR of your choice and our ArduiTouch MKR kit.
+It is very easy to create a nice looking RFID reader with TFT output for wall mounting with an Arduino MKR of your choice and our ArduiTouch MKR kit with 2.4 inch display only.
 
 You can use this reader for door access or intruder alarm terminals. It's easy to extend this simple design for more complex application and wireless data transmission.
 
